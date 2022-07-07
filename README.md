@@ -20,9 +20,10 @@ Related works are listed as follows:
 
 ## Benchmark
 1. [Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning](https://arxiv.org/pdf/2108.06266.pdf) arXiv 2021 | [Github](https://github.com/utiasDSL/safe-control-gym)
-1. [Benchmarking Safe Exploration in Deep Reinforcement Learning](https://cdn.openai.com/safexp-short.pdf) preprint 2019| [Code](https://github.com/openai/safety-gym)
-1. [Multi-Agent Constrained Policy Optimisation](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco) arXiv 2022| [Code](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco)
+1. [Benchmarking Safe Exploration in Deep Reinforcement Learning](https://cdn.openai.com/safexp-short.pdf) preprint 2019 | [Code](https://github.com/openai/safety-gym)
+1. [Multi-Agent Constrained Policy Optimisation](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco) arXiv 2022 | [Code](https://github.com/chauncygu/Safe-Multi-Agent-Mujoco)
 
 
 ## Methodology
 1. [A Lyapunov-based Approach to Safe Reinforcement Learning](https://proceedings.neurips.cc/paper/2018/file/4fe5149039b52765bde64beb9f674940-Paper.pdf) NeurIPS 2018 | [Note](https://zhuanlan.zhihu.com/p/531473180)
+1. [Safety Augmented Value Estimation from Demonstrations (SAVED): Safe Deep Model-Based RL for Sparse Cost Robotic Tasks](https://arxiv.org/pdf/1905.13402.pdf) RA-L 2020 | [Web](https://sites.google.com/view/safetyaugmentedvalueestimation/home)

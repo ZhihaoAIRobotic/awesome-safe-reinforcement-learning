@@ -31,7 +31,7 @@ Related works are listed as follows:
 
 1. [Learning-based Model Predictive Control for Safe Exploration and Reinforcement Learning](https://arxiv.org/pdf/1906.12189.pdf) CDC 2018 | [Code](https://github.com/befelix/safe-exploration?utm_source=catalyzex.com)
 
-1. [Learning-Based Model Predictive Control: Toward Safe Learning in Control](https://scholar.google.com.hk/scholar?q=Learning-Based+Model+Predictive+Control:+Toward+Safe+Learning+in+Control&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) Robotics, and Autonomous Systems 2020 
+1. [Learning-Based Model Predictive Control: Toward Safe Learning in Control](https://scholar.google.com.hk/scholar?q=Learning-Based+Model+Predictive+Control:+Toward+Safe+Learning+in+Control&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart) Robotics, and Autonomous Systems 2020
 
-   
+1. [COPTIDICE: OFFLINE CONSTRAINED REINFORCEMENT LEARNING VIA STATIONARY DISTRIBUTION CORRECTION ESTIMATION](https://openreview.net/pdf?id=FLA55mBee6Q) arXiv 2022
 
